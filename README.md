@@ -1,4 +1,4 @@
-# TEJ Backend - Photo Upload Server ( Deplayed on Render ) 
+# TEJ Backend - Photo Upload Server ( Deployed on Render ) 
 
 This is the backend server for TEJ's graduation party photo upload system. It handles file uploads and stores them in Google Drive.
 
